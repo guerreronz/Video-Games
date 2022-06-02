@@ -2,7 +2,7 @@
 
 ## Context
 
-This dataset has the sale history of most popular video game year and region wise
+This dataset has the sale history of most popular video games year and region wise
 
 ## Description
 
