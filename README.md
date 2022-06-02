@@ -38,5 +38,5 @@ Developer: company that developed the game
 
 ## Acknowledgements
 
-The original dataset can be downloaded The original dataset can be downloaded <a href="https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset" target="blank">here</a>
+The original dataset can be downloaded <a href="https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset" target="blank">here</a>
 
